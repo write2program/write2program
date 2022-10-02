@@ -1,15 +1,35 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.acfc57d1.js",
+    "main.css": "/static/css/main.a360e1fd.css",
+    "main.js": "/static/js/main.3bd25926.js",
     "static/js/787.36716c25.chunk.js": "/static/js/787.36716c25.chunk.js",
+    "static/media/fontawesome-webfont.svg": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/themify.svg": "/static/media/themify.f0fc8c798eac5636249c.svg",
+    "static/media/Flaticon.svg": "/static/media/Flaticon.e563320551f9eaf1aaeb.svg",
+    "static/media/fontawesome-webfont-1.eot": "/static/media/fontawesome-webfont-1.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/themify-1.eot": "/static/media/themify-1.9bad94440d49256265a5.eot",
+    "static/media/themify.eot": "/static/media/themify.9bad94440d49256265a5.eot",
+    "static/media/themify.ttf": "/static/media/themify.eda8b94308c6f538f04a.ttf",
+    "static/media/fontawesome-webfont.woff2": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/ttm-pagetitle-bg.jpg": "/static/media/ttm-pagetitle-bg.2ecc50938b9c3c4606e8.jpg",
+    "static/media/themify.woff": "/static/media/themify.29b39089170885ae2967.woff",
+    "static/media/Flaticon-1.eot": "/static/media/Flaticon-1.035c91f4757e9a991cdf.eot",
+    "static/media/Flaticon.eot": "/static/media/Flaticon.035c91f4757e9a991cdf.eot",
+    "static/media/Flaticon.ttf": "/static/media/Flaticon.71de43f655a6e6f91bff.ttf",
+    "static/media/Flaticon.woff": "/static/media/Flaticon.1021aff0de241b410e9b.woff",
+    "static/media/Flaticon.woff2": "/static/media/Flaticon.cdd5acc02ad39606bd04.woff2",
+    "static/media/pre-loader-1.gif": "/static/media/pre-loader-1.bf2d62a53724f80235e5.gif",
+    "static/media/css-1": "/static/media/css-1.8347200e7dbe4fed9b3d",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.acfc57d1.js.map": "/static/js/main.acfc57d1.js.map",
+    "main.a360e1fd.css.map": "/static/css/main.a360e1fd.css.map",
+    "main.3bd25926.js.map": "/static/js/main.3bd25926.js.map",
     "787.36716c25.chunk.js.map": "/static/js/787.36716c25.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.acfc57d1.js"
+    "static/css/main.a360e1fd.css",
+    "static/js/main.3bd25926.js"
   ]
 }
