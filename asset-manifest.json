@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a360e1fd.css",
-    "main.js": "/static/js/main.3bd25926.js",
+    "main.js": "/static/js/main.c2a13fb8.js",
     "static/js/787.36716c25.chunk.js": "/static/js/787.36716c25.chunk.js",
     "static/media/fontawesome-webfont.svg": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/themify.svg": "/static/media/themify.f0fc8c798eac5636249c.svg",
@@ -19,17 +19,18 @@
     "static/media/Flaticon-1.eot": "/static/media/Flaticon-1.035c91f4757e9a991cdf.eot",
     "static/media/Flaticon.eot": "/static/media/Flaticon.035c91f4757e9a991cdf.eot",
     "static/media/Flaticon.ttf": "/static/media/Flaticon.71de43f655a6e6f91bff.ttf",
+    "static/media/logo.png": "/static/media/logo.244c3de53750b053f988.png",
     "static/media/Flaticon.woff": "/static/media/Flaticon.1021aff0de241b410e9b.woff",
     "static/media/Flaticon.woff2": "/static/media/Flaticon.cdd5acc02ad39606bd04.woff2",
     "static/media/pre-loader-1.gif": "/static/media/pre-loader-1.bf2d62a53724f80235e5.gif",
     "static/media/css-1": "/static/media/css-1.8347200e7dbe4fed9b3d",
     "index.html": "/index.html",
     "main.a360e1fd.css.map": "/static/css/main.a360e1fd.css.map",
-    "main.3bd25926.js.map": "/static/js/main.3bd25926.js.map",
+    "main.c2a13fb8.js.map": "/static/js/main.c2a13fb8.js.map",
     "787.36716c25.chunk.js.map": "/static/js/787.36716c25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a360e1fd.css",
-    "static/js/main.3bd25926.js"
+    "static/js/main.c2a13fb8.js"
   ]
 }
