@@ -15,7 +15,7 @@ const Blog = () => {
         <div className="row justify-content-center">
           <div className="col-lg-9">
             <div className="section-title text-center">
-              <h2>Latest news and inspirational stories</h2>
+              <h2>Latest technology and inspirational stories</h2>
               <p>Check out our latest blog posts, articles, client success stories and essential announcement.</p>
             </div>
           </div>
@@ -37,7 +37,7 @@ const Blog = () => {
                 </div>
                 <div className="blog-post-details">
                   <h5 className="blog-post-title">
-                    <a href="#">From a small startup to a leading global agency in 10 Years</a>
+                    <a href="#">From a small startup to a leading global organization in 10 Years</a>
                   </h5>
                 </div>
               </div>
@@ -59,7 +59,7 @@ const Blog = () => {
                 </div>
                 <div className="blog-post-details">
                   <h5 className="blog-post-title">
-                    <a href="#">How google's BERT algorithm affects your website traffic</a>
+                    <a href="#">How SEO works and affects your website traffic</a>
                   </h5>
                 </div>
               </div>

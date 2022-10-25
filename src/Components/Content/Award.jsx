@@ -23,7 +23,7 @@ const Award = () => {
         <div className="row justify-content-center">
           <div className="col-lg-8">
             <div className="section-title text-center">
-              <h2>Award Winning Digital Solutions</h2>
+              <h2>Software Solutions & Services we provide</h2>
               <p>We take pride in helping our clients deliver marvelous results when it comes to their projects. From data to performance, we’ve got you covered.</p>
             </div>
           </div>
