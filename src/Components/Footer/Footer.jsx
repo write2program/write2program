@@ -15,13 +15,13 @@ const Footer = () => {
             </div>
             <div className="col-sm-9 text-sm-end mt-4 mt-sm-0">
               <ul className="list-unstyled mb-0 social-icon">
-                <li><a href="#"><i className="fab fa-facebook-f"></i></a></li>
-                <li><a href="#"><i className="fab fa-twitter"></i></a></li>
-                <li><a href="#"><i className="fab fa-linkedin-in"></i></a></li>
-                <li><a href="#"><i className="fab fa-github"></i></a></li>
-                <li><a href="#"><i className="fab fa-instagram"></i></a></li>
-                <li><a href="#"><i className="fab fa-whatsapp"></i></a></li>
-                <li><a href="#"><i className="fab fa-youtube"></i></a></li>
+                <li><a href="https://www.facebook.com/profile.php?id=100086959927893"><i className="fab fa-facebook-f"></i></a></li>
+                <li><a href="https://twitter.com/write2program"><i className="fab fa-twitter"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/raja-sahani-450762250/"><i className="fab fa-linkedin-in"></i></a></li>
+                <li><a href="https://github.com/write2program/"><i className="fab fa-github"></i></a></li>
+                <li><a href="https://www.instagram.com/write2program/"><i className="fab fa-instagram"></i></a></li>
+                <li><a href="https://wa.me/9029318921"><i className="fab fa-whatsapp"></i></a></li>
+                <li><a href="https://www.youtube.com/channel/UC6C_3S7slwp5zM2IsvZ1nqg/"><i className="fab fa-youtube"></i></a></li>
               </ul>
             </div>
           </div>
